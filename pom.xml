@@ -84,7 +84,7 @@
 
     <java.version>1.8</java.version>
     <fasterxml.version>2.6.7</fasterxml.version>
-    <fasterxml.jackson.databind.version>2.6.7.3</fasterxml.jackson.databind.version>
+    <fasterxml.jackson.databind.version>2.12.1</fasterxml.jackson.databind.version>
     <fasterxml.jackson.module.scala.version>2.6.7.1</fasterxml.jackson.module.scala.version>
     <fasterxml.jackson.dataformat.yaml.version>2.7.4</fasterxml.jackson.dataformat.yaml.version>
     <fasterxml.spark3.version>2.10.0</fasterxml.spark3.version>
